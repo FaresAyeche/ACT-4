@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Event>
+
+    <Titre lang="en">Tomorrowland</Titre>
+    <Thème>
+      <informatique></informatique>
+      <politique></politique>
+      <culturel></culturel>
+      <sportif></sportif>
+      <Musical></Musical>
+     </Thème>
+   <Lieu>Tunis</Lieu>
+    <Date>26/05/2022</Date>
+    <Budget>DNT EUR</Budget>
+
+  <activités>
+
+       <titre></titre>
+       <durée></durée>
+  </activités>
+  <LesParticipants>
+
+       <invités>
+<nom></nom>
+<identifiant></identifiant>
+<établissement></établissement>
+
+       </invités>
+       <intervenants>
+         <nom></nom>
+         <identifiant></identifiant>
+         <établissement></établissement>
+
+<LangueIntervention></LangueIntervention>
+
+
+
+       </intervenants>
+  </LesParticipants>
+
+</Event>
